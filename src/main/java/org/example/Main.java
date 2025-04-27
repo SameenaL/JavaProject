@@ -7,6 +7,8 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Main Branch");
+        System.out.printf("Dev Changes");
+        System.out.printf("QA Branch");
         System.out.printf("Main Branch-change1");
 
 
